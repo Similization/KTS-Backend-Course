@@ -1,0 +1,10 @@
+aiohttp==3.8.3
+pyyaml==5.4.1
+marshmallow==3.19.0
+aiohttp-apispec==2.2.3
+aiohttp-session==2.9.0
+cryptography==3.4.7
+pytest==6.2.4
+pytest-aiohttp==0.3.0
+markupsafe==2.0.1
+vk-api==11.9.9
